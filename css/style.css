@@ -127,6 +127,7 @@ body {
   padding: 1.5rem 4rem;
   display: inline-block;
   border-radius: 10rem;
+  font-size: 1.6rem;
   transition: all 0.2s;
   position: relative;
 }
