@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $color-primary: #55c57a;
 $color-primary-light: #7ed56f;
 $color-primary-dark: #28b485;
@@ -180,3 +181,19 @@ body {
   animation: moveInBottom 0.5s ease-out 0.75s;
   animation-fill-mode: backwards;
 }
+=======
+@import "abstract/variables";
+@import "abstract/functions";
+@import "abstract/mixins";
+@import "base/animations";
+@import "base/base";
+@import "base/utilities";
+
+@import "base/typography";
+@import "pages/home";
+@import "components/button";
+@import "components/composition";
+@import "components/feature-box";
+@import "layouts/header";
+@import "layouts/grid";
+>>>>>>> master
